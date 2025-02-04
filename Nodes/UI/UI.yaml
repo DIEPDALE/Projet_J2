@@ -459,12 +459,12 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 130.0
+      Value: 380.0
     - Name: Height
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 80.0
+      Value: 40.0
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -474,7 +474,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 260.0
+      Value: 300.0
     - Name: NumberAnimation2
       Type: NumberAnimation
       Children:
