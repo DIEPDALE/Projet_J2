@@ -32,10 +32,10 @@ Project:
    Module: FTOptix.Retentivity
    Version: 1.0
  Statistics:
-  TotalNodeCount: 311
-  Objects: 97
+  TotalNodeCount: 321
+  Objects: 99
   ObjectTypes: 1
-  Variables: 213
+  Variables: 221
   VariableTypes: 0
   DataTypes: 0
   Methods: 0
